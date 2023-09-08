@@ -1,6 +1,6 @@
 function decimalToBinary(num) {
   // Write your code here
-	let binary[] = new int[20];
+	let binary[];
 	let i=0;
 
 	while(num>0) {
